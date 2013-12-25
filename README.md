@@ -1,11 +1,9 @@
 openf1le
 ========
- _______________________________________
 
   openf1le, a display of all open-source 
       jailbreak utility in history!      
-                                        
- ---------------------------------------
+
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
