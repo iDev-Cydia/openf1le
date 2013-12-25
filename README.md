@@ -4,8 +4,8 @@ openf1le
   openf1le, a display of all open-source 
       jailbreak utility in history!      
 
-        \   ^__^
-         \  (oo)\_______
+            ^__^
+            (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
