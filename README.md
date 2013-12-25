@@ -24,4 +24,5 @@ openf1le is a display of all open-source jailbreaking utility in history.
 2. CREDITS
 
 We'd like to acknowledge the following projects for design concepts, code, and/or inspiration.
+
 •All of these jailbreak program developers
